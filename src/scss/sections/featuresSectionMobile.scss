@@ -43,6 +43,15 @@
         }
         .featuresph{
             margin-top: 0px;
+            .featuresphTitle{
+                padding-left: 40px;
+                text-align: center;
+            }
+            ul{
+                list-style: none;
+                text-align: center;
+                color: gray;
+            }
         }
     }
 }
