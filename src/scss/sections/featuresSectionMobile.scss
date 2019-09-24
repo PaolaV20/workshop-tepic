@@ -1,0 +1,97 @@
+@media only screen and (max-width:1200px){
+    .features{
+        padding:0 20px;
+        display: flex;
+        img{
+            width: 50%;
+            margin-left: 0px;
+        }
+        .featuresph{
+            display:flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+            width: 50%;
+            margin-top: 0px;
+        }
+        .featuresphTitle{
+            padding-left: 40px;
+            text-align: center;
+        }
+        ul{
+            list-style: none;
+            text-align: center;
+            color: gray;
+        }
+    }
+}
+@media only screen and (max-width:992px){
+    .features{
+        padding:0 20px;
+        display: flex;
+        img{
+            width: 50%;
+            margin-left: 0px;
+        }
+        .featuresph{
+            display:flex;
+            align-items: center;
+            flex-direction: column;
+            justify-content: center;
+            width: 50%;
+            margin-top: 0px;
+        }
+        .featuresphTitle{
+            padding-left: 40px;
+            text-align: center;
+        }
+        ul{
+            list-style: none;
+            text-align: center;
+            color: gray;
+        }
+    }
+}
+@media only screen and (max-width:768px){
+    .features{
+        padding-left: 2%;
+        img{
+            width: 95%;
+            margin-left: 0px;
+        }
+        .featuresph{
+            width: 100%;
+            padding-right:40px;
+            margin-top: 0px;
+        }
+        .featuresphTitle{
+            text-align: center;
+        }
+        ul{
+            list-style: none;
+            text-align: center;
+            color: gray;
+        }
+    }
+}
+@media only screen and (max-width:576px){
+    .features{
+        padding-left: 2%;
+        img{
+            width: 100%;
+            margin-left: 0px;
+        }
+        .featuresph{
+            margin-top: 0px;
+            .featuresphTitle{
+                padding-left: 40px;
+                text-align: center;
+            }
+            ul{
+                list-style: none;
+                text-align: center;
+                color: gray;
+            }
+        }
+    }
+}
