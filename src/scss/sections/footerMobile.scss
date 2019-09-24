@@ -7,14 +7,27 @@
             flex-direction: column;
         }
         .footer-left{
+            width: 100%;
             padding-top: 0px;
             padding-bottom: 0px;
             padding-left: 100px;
             margin-right: 0px;
         }
-        .footer-right{
+        .footer-rigth{
+            width: 100%;
             padding-top: 0px;
             padding-bottom: 0px;
+            padding-left: 100px;
+            margin-right: 0px; 
+            text-align: left;
+            img{ 
+                display:flex;
+                flex-direction: row;
+            }   
+        }
+        .help{
+            display:flex;
+            flex-direction: row;
         }
     }
 }
@@ -27,14 +40,27 @@
             flex-direction: column;
         }
         .footer-left{
+            width: 100%;
             padding-top: 0px;
             padding-bottom: 0px;
             padding-left: 100px;
             margin-right: 0px;
         }
-        .footer-right{
+        .footer-rigth{
+            width: 100%;
             padding-top: 0px;
             padding-bottom: 0px;
+            padding-left: 100px;
+            margin-right: 0px; 
+            text-align: left;
+            img{ 
+                display:flex;
+                flex-direction: row;
+            }   
+        }
+        .help{
+            display:flex;
+            flex-direction: row;
         }
     }
 }
